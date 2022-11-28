@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "SeattleSlowJam2022Editor Editor Win64 Development (SeattleSlowJam2022)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

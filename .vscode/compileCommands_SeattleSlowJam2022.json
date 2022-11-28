@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\AudioActorBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\AudioActorBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\EcholocationAbility.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\EcholocationAbility.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022Character.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022Character.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022GameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\Source\\SeattleSlowJam2022\\SeattleSlowJam2022GameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Battlestation One\\Perforce\\SeattleSlowJam2022\\.vscode\\compileCommands_SeattleSlowJam2022\\SeattleSlowJam2022.219.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
